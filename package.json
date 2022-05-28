@@ -1,0 +1,19 @@
+{
+  "name": "just",
+  "version": "1.0.0",
+  "description": "TEST version manger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnonymousShao/JUST.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnonymousShao/JUST/issues"
+  },
+  "homepage": "https://github.com/AnonymousShao/JUST#readme"
+}
